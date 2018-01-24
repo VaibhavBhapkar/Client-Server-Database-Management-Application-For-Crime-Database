@@ -1,0 +1,24 @@
+#left_side{
+	margin-top:10px;
+	margin-right:10px;
+	width:490px;
+	float:left;
+}
+
+#right_side{
+	margin-top:10px;
+	float:left;
+	width:500px;
+}
+
+.container{
+	width:460px;
+}
+
+.input{
+	width:360px;
+}
+
+.field:hover .info{
+	margin:-30px 0 0 450px;
+}
